@@ -314,7 +314,7 @@ v5:Destroy();
 local v14 = loadstring(game:HttpGet("https://raw.githubusercontent.com/obfalchx/testfluent/refs/heads/main/FluentTrau"))();
 local v15 = v14:CreateWindow({
     Title = "Thanhh Tuấn Gaming",
-    SubTitle = "Test",
+    SubTitle = "Script Design And Create By Mtoan ",
     TabWidth = 160,
     Theme = "Light",
     Acrylic = false,
