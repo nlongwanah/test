@@ -6,11 +6,11 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/VanThanhIOS/OniiChan
          Animation = "Script Tổng Hợp Ver1"
          },
         Key = {
-        KeySystem = false,
+        KeySystem = true,
         Title = "Minh Toàn ・ Scrit Tổng Hợp",
-        Description = "",
-        KeyLink = "",
-        Keys = {"VanThanhIOS"},
+        Description = "Bạn Cần GetKey ",
+        KeyLink = "https://link4m.com/NNTWW0yi",
+        Keys = {"Mtoan"},
         Notifi = {
         Notifications = true,
         CorrectKey = "Đang Chạy Script",
