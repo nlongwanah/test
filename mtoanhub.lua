@@ -1,13 +1,3 @@
--- discord.gg/25ms
-       MinimizeButton({
-       Image = "http://www.roblox.com/asset/?id=89284864928775",
-       Size = {40, 40},
-       Color = Color3.fromRGB(10, 10, 10),
-       Corner = true,
-       Stroke = false,
-       StrokeColor = Color3.fromRGB(255, 0, 0)
-      })
-      
 shared.LoaderTitle = "Đăng Ký Kênh Thanhh Tuấn Gaming";
 shared.LoaderKeyFrames = {
     [1] = {
